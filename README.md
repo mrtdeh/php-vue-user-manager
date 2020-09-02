@@ -1,3 +1,8 @@
 # php-vue-user-manager
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+to run :
+```php
+php -S localhost:8000
+```
+
+![alt text](https://github.com/mrtdeh/php-vue-user-manager/blob/master/image.jpg?raw=true)
